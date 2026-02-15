@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rebecahaandrade.github.io/peso-sem-peso",
+  "homepage": "https://rebecahaandrade.github.io/o-peso-que-nao-aparece-na-balanca",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
